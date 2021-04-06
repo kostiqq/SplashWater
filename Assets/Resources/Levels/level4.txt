@@ -1,0 +1,29 @@
+{
+"tiles":[
+{"type":0, "number":0},
+{"type":0, "number":2},
+{"type":0, "number":3},
+{"type":2, "number":2},
+{"type":0, "number":4},
+{"type":0, "number":2},
+{"type":2, "number":0},
+{"type":0, "number":1},
+{"type":1, "number":0},
+{"type":0, "number":3},
+{"type":0, "number":4},
+{"type":2, "number":2},
+{"type":0, "number":1},
+{"type":0, "number":4},
+{"type":0, "number":3},
+{"type":1, "number":3},
+{"type":0, "number":4},
+{"type":0, "number":2},
+{"type":1, "number":0},
+{"type":0, "number":3},
+{"type":2, "number":2},
+{"type":0, "number":1},
+{"type":0, "number":4},
+{"type":0, "number":4},
+{"type":0, "number":0}
+]
+}
